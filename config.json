@@ -1,7 +1,7 @@
 {
   "general":{ 
     "prefix": "!",
-    "channel_delivery_count_name": "✅  Delivery | 📦 ",
+    
     "channel_delivery_count": "724033463455449139",
     "refreshtime_delivery_count": "0 0/5 * * * * *",
     "categorie_default": "722863747273850971",
