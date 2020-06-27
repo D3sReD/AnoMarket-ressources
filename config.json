@@ -1,1 +1,2 @@
-{ "Test": "lul"}
+general:{ "Test": "lul"},
+other:{'lul: "lul"
