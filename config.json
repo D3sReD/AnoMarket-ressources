@@ -3,11 +3,21 @@
     
     "prefix": "!",
     
-    "channel_delivery_count_name": "dq",
+    "channel_delivery_count_name": "✅  Delivery | 📦 ",
     "channel_delivery_count": "724033463455449139",
     "refreshtime_delivery_count": "0 0/5 * * * * *",
     
-    "categorie_default": "722863747273850971"
+    "categorie_default": "722863747273850971",
+    "categorie_order": "722863727141191741",
+    "categorie_waiting": "722863747273850971",
+    
+    "channel_topic": "Use « !cmd » to show all commands",
+
+    "delivery_perm": "722844646547521566",
+    "delivery_perm_2": "",
+
+    "credit": "Made in Switzerland by D3sReD & Stacked | V1.6",
+    "credit_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/110px-Flag_of_Switzerland_%28Pantone%29.svg.png"
   },
   
   "other":{
